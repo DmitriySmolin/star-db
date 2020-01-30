@@ -100,9 +100,10 @@
 }
 
 .loadingio-spinner-double-ring-7red6advj {
+    margin: 0 auto;
     width: 77px;
     height: 77px;
-    display: inline-block;
+    display: block;
     overflow: hidden;
     background: none;
 }
